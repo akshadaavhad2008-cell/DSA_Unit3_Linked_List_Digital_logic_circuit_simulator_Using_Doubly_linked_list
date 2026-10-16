@@ -1,0 +1,17 @@
+To develop a C++ program that simulates basic digital logic gates and displays their outputs for given binary inputs.
+
+#Features
+Simulates basic digital logic gates.
+Accepts binary inputs (0 and 1).
+Displays the corresponding gate outputs.
+Helps understand digital electronics concepts.
+Provides a simple, menu-driven interface.
+
+#Algorithm
+Start the program.
+Display the available logic gates.
+Ask the user to select a gate.
+Accept the required binary inputs.
+Perform the selected gate operation.
+Display the output.
+Stop the program.
