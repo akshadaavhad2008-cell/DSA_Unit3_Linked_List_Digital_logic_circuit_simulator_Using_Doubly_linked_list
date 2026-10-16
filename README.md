@@ -66,6 +66,21 @@ int main() {
 }
 
 
+output
+=== DIGITAL LOGIC CIRCUIT SIMULATOR OUTPUT ===
+1. AND Gate
+2. OR Gate
+3. NOT Gate
+4. NAND Gate
+5. NOR Gate
+6. XOR Gate
+7. XNOR Gate
+Enter your choice: 1
+Enter input A (0 or 1): 1
+Enter input B (0 or 1): 1
+Output = 1
+
+
 
    
        
