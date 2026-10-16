@@ -65,7 +65,6 @@ int main() {
     return 0;
 }
 
-
 output
 === DIGITAL LOGIC CIRCUIT SIMULATOR OUTPUT ===
 1. AND Gate
@@ -79,6 +78,7 @@ Enter your choice: 1
 Enter input A (0 or 1): 1
 Enter input B (0 or 1): 1
 Output = 1
+
 
 
 
