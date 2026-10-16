@@ -7,6 +7,7 @@ code
 using namespace std;
 
 int main() {
+
     int choice, A, B, result;
 
     cout << "=== DIGITAL LOGIC CIRCUIT SIMULATOR ===\n";
