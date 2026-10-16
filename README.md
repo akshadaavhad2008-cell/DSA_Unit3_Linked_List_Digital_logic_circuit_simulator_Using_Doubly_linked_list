@@ -2,6 +2,7 @@
 A C++ project that simulates basic digital logic gates, including AND, OR, NOT, NAND, NOR, XOR, and XNOR. It accepts binary inputs and displays outputs to demonstrate the working of digital logic circuits.
 
 code
+
 #include <iostream>
 using namespace std;
 
@@ -62,3 +63,9 @@ int main() {
 
     return 0;
 }
+
+
+
+   
+       
+       
